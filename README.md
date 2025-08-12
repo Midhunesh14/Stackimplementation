@@ -25,11 +25,7 @@ This project is designed to help visualize stack behavior while maintaining a **
 - **Qt 5.15** or **Qt 6.x**
 - **Qt Creator** (recommended for building)
 - C++17-compatible compiler (MinGW / MSVC on Windows, g++/clang on Linux/macOS)
-
 ---
-
-## 📂 Project Structure
-
 ---
 
 ## 🚀 How to Build & Run
