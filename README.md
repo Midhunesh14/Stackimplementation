@@ -16,8 +16,7 @@ This project is designed to help visualize stack behavior while maintaining a **
 ---
 
 ## 📸 Demo
-
-> _(Add screenshots or GIFs of the app here)_
+<img width="1011" height="751" alt="image" src="https://github.com/user-attachments/assets/317efdb3-3c6b-4651-a793-c13a17687822" />
 
 ---
 
