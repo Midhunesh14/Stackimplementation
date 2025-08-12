@@ -30,3 +30,19 @@ This project is designed to help visualize stack behavior while maintaining a **
 
 ## 📂 Project Structure
 
+---
+
+## 🚀 How to Build & Run
+
+### Option 1 — Using Qt Creator (recommended)
+1. Open **Qt Creator**
+2. `File → Open File or Project` → Select `StackVisualizer.pro` (or `CMakeLists.txt`)
+3. Choose a **Desktop Kit** (e.g., `Desktop Qt 6.x GCC`)
+4. Click the **Run ▶** button
+
+### Option 2 — Command line (qmake)
+```bash
+qmake StackVisualizer.pro
+make          # or mingw32-make on Windows
+./StackVisualizer
+
